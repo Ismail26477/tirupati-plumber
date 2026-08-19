@@ -22,7 +22,7 @@ import hero2Img from "@/assets/hero-2.jpg";
 import hero3Img from "@/assets/hero-3.jpg";
 import ownerImg from "@/assets/about-owner.jpg";
 import pipesImg from "@/assets/pipes-work.jpg";
-import logoAsset from "@/assets/tirupati-logo.png.asset.json";
+import logoAsset from "@/assets/tiru.jpeg";
 
 const heroSlides = [
   {
