@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Menu, Phone, X } from "lucide-react";
 import { PHONE, PHONE_HREF } from "./constants";
-import logoAsset from "@/assets/tirupati-logo.png.asset.json";
+import logoAsset from "@/assets/tiru.jpeg";
 
 const links = [
   { label: "Home", href: "#home" },
