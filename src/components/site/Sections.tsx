@@ -534,14 +534,14 @@ export function Footer() {
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 lg:grid-cols-3 lg:px-8">
         <div>
           <h2 className="flex items-center gap-3 font-display text-xl font-bold uppercase">
-            <img
-              src={logoAsset.url}
-              alt=""
-              width={40}
-              height={40}
-              loading="lazy"
-              className="size-10 shrink-0 rounded-lg bg-background object-contain p-1"
-            />
+           <img
+  src={logoAsset}
+  alt={`${BUSINESS} logo`}
+  width={40}
+  height={40}
+  loading="lazy"
+  className="size-10 shrink-0 rounded-lg bg-background object-contain p-1"
+/>
             {BUSINESS}
           </h2>
           <p className="mt-3 max-w-sm text-sm leading-relaxed text-charcoal-foreground/70">
